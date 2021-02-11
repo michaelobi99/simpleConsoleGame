@@ -1,0 +1,7 @@
+wxWidgets practice.vcxproj
+wxWidgets practice.vcxproj.filters
+wxWidgets practice.vcxproj.user
+myApp.h
+*.txt
+Debug
+Release
